@@ -1,0 +1,9 @@
+Date,Product,Sales_Amount,Quantity,Region
+2023-01-01,Laptop,1200,1,North
+2023-01-02,Phone,800,2,South
+2023-01-03,Tablet,600,1,East
+2023-01-04,Headphones,150,3,West
+2023-01-05,Mouse,50,5,North
+2023-01-06,Keyboard,100,2,South
+2023-01-07,Laptop,1200,1,East
+2023-01-08,Phone,800,1,West
